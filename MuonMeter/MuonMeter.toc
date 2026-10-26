@@ -1,0 +1,20 @@
+## Interface: 120105
+## Title: MuonMeter
+## Notes: Appearance and interaction enhancements for the native damage meter.
+## Notes-zhTW: 原生傷害量表的外觀與操作擴充。
+## Notes-zhCN: 原生伤害统计的外观与操作扩展。
+## Version: R1.0
+## SavedVariables: MuonMeterDB
+
+Init.lua
+Locale.lua
+Core.lua
+Modules/Skin.lua
+Modules/HidePlayer.lua
+Modules/Move.lua
+Modules/Numbers.lua
+Modules/Fade.lua
+Modules/Tooltip.lua
+Config/Preview.lua
+Config/Adjust.lua
+Config/Menu.lua
